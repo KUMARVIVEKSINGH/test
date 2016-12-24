@@ -7,7 +7,7 @@ public class ListTesting {
 
 	public static void main(String[] args) {
 		List<String> fieldingPos= new ArrayList<String>();
-		fieldingPos.add("wicketkeeper1");
+		fieldingPos.add("wicketkeeper");
 		fieldingPos.add(1, "bowler");
 		fieldingPos.add("wicketkeeper");
 		List<String> offside =new ArrayList<>();

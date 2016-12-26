@@ -9,7 +9,7 @@ public class ListTesting {
 		List<String> fieldingPos= new ArrayList<String>();
 		fieldingPos.add("wicketkeeper");
 		fieldingPos.add(1, "bowler3");
-		fieldingPos.add("wicketkeeper");
+		fieldingPos.add("wicketkeeper1234");
 		List<String> offside =new ArrayList<>();
 		offside.add("point");
 		offside.add("cover");
